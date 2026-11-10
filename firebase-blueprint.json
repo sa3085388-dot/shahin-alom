@@ -1,0 +1,18 @@
+{
+  "entities": {
+    "UserLocation": {
+      "path": "users/{userId}",
+      "schema": {
+        "userId": "string",
+        "displayName": "string",
+        "email": "string",
+        "shareCode": "string",
+        "latitude": "number",
+        "longitude": "number",
+        "battery": "number",
+        "isSharing": "boolean",
+        "lastUpdated": "timestamp"
+      }
+    }
+  }
+}

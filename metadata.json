@@ -1,0 +1,6 @@
+{
+  "name": "LiveTracker",
+  "description": "Real-time live location sharing and distance tracking app",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
